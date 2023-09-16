@@ -1,0 +1,28 @@
+{
+  "name": "cryptomarketanalysis",
+  "version": "1.0.0",
+  "description": "A Python project for conducting in-depth analysis of private investments.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iamhamzaawan/Private-Investment-Analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamhamzaawan/Private-Investment-Analysis/issues"
+  },
+  "homepage": "https://github.com/iamhamzaawan/Private-Investment-Analysis#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "crypto": "^1.0.1",
+    "http": "^0.0.1-security",
+    "nodemailer": "^6.9.5",
+    "querystring": "^0.2.1",
+    "sleep": "^6.3.0",
+    "util": "^0.12.5"
+  }
+}
